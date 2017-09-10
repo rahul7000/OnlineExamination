@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+
+b
+{
+	font-size:40%;
+	font-style:bold;
+	font-color:green;
+
+}
+header
+{
+	color:green;
+	position:relative;
+	
+}

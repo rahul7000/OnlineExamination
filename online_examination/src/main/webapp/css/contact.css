@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+.mydiv{
+	float: none;
+	margin-right: auto;
+	margin-left: auto;
+	border:4px solid black;
+	width: 70%;
+	height: 400px;
+	text-align : center;
+	font-size : 25px;
+}
+
+h1{
+	text-align : center;
+	font-size : 30px;
+}
+
+li{
+	text-align : left;
+	font-size : 18px;
+}
+
+
+
+li:hover{
+	
+	
+	 color: purple;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+u:hover{
+	
+	
+	 color: green;
+    text-shadow: 2px 2px 4px #000000;
+}
+img{
+	
+	border: 1px solid #ddd;
+    border-radius: 7px;
+    
+    width: 300px;
+    height: 100px;
+}
+
+
+
